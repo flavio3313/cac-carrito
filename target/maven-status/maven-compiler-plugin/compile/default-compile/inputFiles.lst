@@ -1,0 +1,16 @@
+C:\Users\Mica\Documents\jsp-ecommerce\src\cn\flavio\model\Cart.java
+C:\Users\Mica\Documents\jsp-ecommerce\src\cn\flavio\model\Order.java
+C:\Users\Mica\Documents\jsp-ecommerce\src\cn\flavio\servlet\CheckOutServlet.java
+C:\Users\Mica\Documents\jsp-ecommerce\src\cn\flavio\servlet\LoginServlet.java
+C:\Users\Mica\Documents\jsp-ecommerce\src\cn\flavio\servlet\LogoutServlet.java
+C:\Users\Mica\Documents\jsp-ecommerce\src\cn\flavio\dao\UserDao.java
+C:\Users\Mica\Documents\jsp-ecommerce\src\cn\flavio\dao\ProductDao.java
+C:\Users\Mica\Documents\jsp-ecommerce\src\cn\flavio\servlet\CancelOrderServlet.java
+C:\Users\Mica\Documents\jsp-ecommerce\src\cn\flavio\servlet\OrderNowServlet.java
+C:\Users\Mica\Documents\jsp-ecommerce\src\cn\flavio\model\Product.java
+C:\Users\Mica\Documents\jsp-ecommerce\src\cn\flavio\connection\DbCon.java
+C:\Users\Mica\Documents\jsp-ecommerce\src\cn\flavio\dao\OrderDao.java
+C:\Users\Mica\Documents\jsp-ecommerce\src\cn\flavio\servlet\QuantityIncDecServlet.java
+C:\Users\Mica\Documents\jsp-ecommerce\src\cn\flavio\servlet\AddToCartServlet.java
+C:\Users\Mica\Documents\jsp-ecommerce\src\cn\flavio\servlet\RemoveFromCartServlet.java
+C:\Users\Mica\Documents\jsp-ecommerce\src\cn\flavio\model\User.java
