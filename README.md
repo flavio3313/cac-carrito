@@ -8,3 +8,6 @@
 
 
 <img src = "https://github.com/flavio3313/cac-carrito/blob/Develop/1.JPG" alt ="1"/>
+<img src = "https://github.com/flavio3313/cac-carrito/blob/Develop/1.JPG" alt ="2"/>
+<img src = "https://github.com/flavio3313/cac-carrito/blob/Develop/1.JPG" alt ="3"/>
+<img src = "https://github.com/flavio3313/cac-carrito/blob/Develop/1.JPG" alt ="4"/>
