@@ -9,7 +9,7 @@ public class DbCon {
 	public static Connection getConnection() throws ClassNotFoundException, SQLException{
         if(connection == null){
             Class.forName("com.mysql.cj.jdbc.Driver");
-            connection=DriverManager.getConnection("jdbc:mysql://localhost:3306/ecommerce_cart","root","scph3312");
+            connection=DriverManager.getConnection("jdbc:mysql://bwyfvyfy4zvrv42zljz3-mysql.services.clever-cloud.com:3306/bwyfvyfy4zvrv42zljz3","ub1vmi1i5l4cvaev","rVzovaVIvhFb6wLoBi3V");
             System.out.print("connected");
         }
         return connection;
